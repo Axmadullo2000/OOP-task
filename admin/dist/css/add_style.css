@@ -1,0 +1,38 @@
+body {
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    margin: 0; /* Убираем отступы */
+    background: url(https://png.pngtree.com/thumb_back/fw800/background/20201026/pngtree-futuristic-shape-abstract-background-chemistry-technology-concept-for-website-image_438818.jpg) no-repeat;
+     /* Параметры фона */
+    background-size: cover; /* Фон занимает всю доступную площадь */
+}
+#create_tags {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 800px;
+    height: 400px;
+    border: 2px solid silver;
+}
+
+#context_form .btn {
+    margin-top: 30px;
+    width: 80%;
+    display: block;
+    margin: 25px auto;
+}
+#context_post {
+    width: 80%;
+    margin: auto;
+}
+#tags {
+    width: 450px;
+    height: 100px;
+    text-align: center;
+}
+.back {
+    display: block;
+    margin: auto;
+    width: 80%;
+}
