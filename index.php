@@ -13,6 +13,5 @@
 <body>
     <a href="admin.php">Sign in</a>
     <h3>Обновлённый файл</h3>
-
 </body>
 </html>
